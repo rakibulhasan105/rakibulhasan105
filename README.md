@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rakibul Hasan
+# Hi, This is Rakibul Hasan
 
 ### 💻 CSE Student | 🧠 Competitive Programmer | 🚀 Aspiring Software Engineer
 
