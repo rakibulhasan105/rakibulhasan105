@@ -1,16 +1,181 @@
-## Hi there 👋
+ # Hi, This is Rakibul Hasan
 
-<!--
-**rakibulhasan105/rakibulhasan105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 CSE Student | 🧠 Competitive Programmer | 🚀 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;CSE+Student+%40+UIU;Competitive+Programming+Enthusiast;Aspiring+Software+Engineer" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+🎓 I'm a **Computer Science & Engineering student** at **United International University (UIU)**.
+
+💡 I enjoy solving programming problems and learning how software works.
+
+🧠 Currently focused on **Software Engineering** and **Competitive Programming**.
+
+🌱 Exploring **Web Development, Backend Development, Databases, and Software Engineering**.
+
+🚀 My goal is to become a strong **Software Engineer** and problem solver.
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🗄️ Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
+
+---
+
+## 🧠 Competitive Programming
+
+I regularly practice problem solving on competitive programming platforms.
+
+### 🏆 My Profiles
+
+<p>
+  <a href="https://codeforces.com/profile/rakib105">
+    <img src="https://img.shields.io/badge/Codeforces-rakib105-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+
+  <a href="https://www.codechef.com/users/rakib105">
+    <img src="https://img.shields.io/badge/CodeChef-rakib105-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+
+  <a href="https://atcoder.jp/users/rakib105">
+    <img src="https://img.shields.io/badge/AtCoder-rakib105-000000?style=for-the-badge&logo=atcoder&logoColor=white" />
+  </a>
+</p>
+
+### 📚 Topics I'm Practicing
+
+```text
+Data Structures
+Algorithms
+Problem Solving
+Dynamic Programming
+Graph Algorithms
+Greedy Algorithms
+Divide & Conquer
+Sorting & Searching
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Web Development Projects
+
+Building small web projects while learning:
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+### 💻 Competitive Programming
+
+A collection of my solutions and problem-solving practice from:
+
+**Codeforces • CodeChef • AtCoder**
+
+---
+
+## 📚 Currently Learning
+
+```text
+                    ┌─────────────────────┐
+                    │ Data Structures &   │
+                    │ Algorithms          │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │ Competitive         │
+                    │ Programming         │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │ Web Development     │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │ Backend Development │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │ Software Engineering│
+                    └─────────────────────┘
+```
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakibulhasan105&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhasan105&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rakibulhasan105&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 My Coding Journey
+
+```text
+Learn → Practice → Solve → Build → Improve → Repeat 🔄
+```
+
+I believe consistency is more important than perfection.
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/rakibulhasan105">
+    <img src="https://img.shields.io/badge/GitHub-rakibulhasan105-181717?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/rakibul-hasan105/">
+    <img src="https://img.shields.io/badge/LinkedIn-rakibul--hasan105-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://codeforces.com/profile/rakib105">
+    <img src="https://img.shields.io/badge/Codeforces-rakib105-1F8ACB?style=for-the-badge&logo=codeforces" />
+  </a>
+</p>
+
+---
+
+## 💭 Developer Mindset
+
+> **"First solve the problem. Then write the code."**
+
+---
+
+<p align="center">
+  ⭐ If you find my repositories useful, consider giving them a star!
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
