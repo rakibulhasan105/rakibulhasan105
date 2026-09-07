@@ -20,132 +20,53 @@
 
 🚀 My goal is to become a strong **Software Engineer** and problem solver.
 
----
+🏆 Competitive Programming
 
-## 🛠️ Tech Stack
+<p align="center">
 
-### 👨‍💻 Programming Languages
+<a href="https://codeforces.com/profile/rakib105"> <img src="https://img.shields.io/badge/Codeforces-rakib105-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/> </a>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js" />
+<a href="https://www.codechef.com/users/rakib105"> <img src="https://img.shields.io/badge/CodeChef-rakib105-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/> </a>
+
 </p>
 
-### 🌐 Web Development
+🛠️ Skills & Technologies
+Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<p> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C- A8B9CC?style=for-the-badge&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </p>
 
-### 🗄️ Database & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-</p>
-
----
-
-## 🧠 Competitive Programming
-
-I regularly practice problem solving on competitive programming platforms.
-
-### 🏆 My Profiles
-
-<p>
-  <a href="https://codeforces.com/profile/rakib105">
-    <img src="https://img.shields.io/badge/Codeforces-rakib105-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-
-  <a href="https://www.codechef.com/users/rakib105">
-    <img src="https://img.shields.io/badge/CodeChef-rakib105-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-
-  <a href="https://atcoder.jp/users/rakib105">
-    <img src="https://img.shields.io/badge/AtCoder-rakib105-000000?style=for-the-badge&logo=atcoder&logoColor=white" />
-  </a>
-</p>
-
-### 📚 Topics I'm Practicing
-
-```text
-Data Structures
-Algorithms
+Core Concepts
+Data Structures & Algorithms
+Competitive Programming
+Object-Oriented Programming
+Database Management Systems
 Problem Solving
-Dynamic Programming
-Graph Algorithms
-Greedy Algorithms
-Divide & Conquer
-Sorting & Searching
-```
+Tools
 
----
+<p> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </p>
 
-## 🚀 Featured Projects
+📊 GitHub Stats
 
-### 🌐 Web Development Projects
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rakibulhasan105&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhasan105&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
 
-Building small web projects while learning:
+🔥 GitHub Streak
 
-`HTML` `CSS` `JavaScript`
+<p align="center"> <img src="https://streak-stats.demolab.com?user=rakibulhasan105&theme=tokyonight&hide_border=true"/> </p>
 
----
+📈 Contribution Graph
 
-### 💻 Competitive Programming
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibulhasan105&theme=tokyo-night&hide_border=true"/> </p>
 
-A collection of my solutions and problem-solving practice from:
-
-**Codeforces • CodeChef • AtCoder**
-
-## 📊 GitHub Statistics
+🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakibulhasan105&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhasan105&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<a href="mailto:rakibulhasan105105@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+<a href="https://www.facebook.com/rakib.hasan.105"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
+
+<a href="https://github.com/rakibulhasan105"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rakibulhasan105&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 My Coding Journey
-
-```text
-Learn → Practice → Solve → Build → Improve → Repeat 🔄
-```
-
-I believe consistency is more important than perfection.
-
----
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://github.com/rakibulhasan105">
-    <img src="https://img.shields.io/badge/GitHub-rakibulhasan105-181717?style=for-the-badge&logo=github" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/rakibul-hasan105/">
-    <img src="https://img.shields.io/badge/LinkedIn-rakibul--hasan105-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://codeforces.com/profile/rakib105">
-    <img src="https://img.shields.io/badge/Codeforces-rakib105-1F8ACB?style=for-the-badge&logo=codeforces" />
-  </a>
-</p>
-
----
-
-## 💭 Developer Mindset
-
-> **"First solve the problem. Then write the code."**
-
----
-
-<p align="center">
-  ⭐ If you find my repositories useful, consider giving them a star!
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+<p align="center"> <b>Thanks for visiting my profile! 🚀</b> </p>
