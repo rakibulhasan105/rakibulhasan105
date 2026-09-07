@@ -1,6 +1,9 @@
 # Hi, This is Rakibul Hasan
 
 ### 💻 CSE Student | 🧠 Competitive Programmer | 🚀 Aspiring Software Engineer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakibulhasan105&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;CSE+Student+%40+UIU;Competitive+Programming+Enthusiast;Aspiring+Software+Engineer" alt="Typing SVG" />
