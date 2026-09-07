@@ -95,36 +95,6 @@ A collection of my solutions and problem-solving practice from:
 
 **Codeforces • CodeChef • AtCoder**
 
----
-
-## 📚 Currently Learning
-
-```text
-                    ┌─────────────────────┐
-                    │ Data Structures &   │
-                    │ Algorithms          │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │ Competitive         │
-                    │ Programming         │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │ Web Development     │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │ Backend Development │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │ Software Engineering│
-                    └─────────────────────┘
-```
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
